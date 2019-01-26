@@ -1,8 +1,9 @@
-#########################################################
-#                                                       #
-# Will work for files with only numbers and dashes,     #
-# files with alpha chars will fail                      #
-#########################################################
+############################################################
+#    Reads in txt file and computes the RMS value          #
+#                                                          #
+#    Will work for files with only numbers and dashes,     #
+#    files with alpha chars will fail                      #
+############################################################
 
 import numpy as np
 
